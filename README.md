@@ -9,4 +9,4 @@ This is a simple puzzle cube simulation in Raylib
 - Shift + Notation keys: Rotate the cube faces in the opposite direction
 - 'A': Scramble the cube
 
-![img.png](img.png)
+![image](https://github.com/user-attachments/assets/a9738cf2-4a7b-482b-b121-31483736c77f)
